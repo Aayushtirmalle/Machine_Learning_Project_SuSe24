@@ -1,0 +1,890 @@
+2024-08-16 09:44:24,837 [BombeRLeWorld] INFO: Initializing game world
+2024-08-16 09:44:24,892 [BombeRLeWorld] INFO: STARTING ROUND #1
+2024-08-16 09:44:24,893 [BombeRLeWorld] INFO: STARTING STEP 1
+2024-08-16 09:44:24,894 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,894 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,895 [BombeRLeWorld] INFO: STARTING STEP 2
+2024-08-16 09:44:24,896 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,896 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,901 [BombeRLeWorld] INFO: STARTING STEP 3
+2024-08-16 09:44:24,901 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,901 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,903 [BombeRLeWorld] INFO: STARTING STEP 4
+2024-08-16 09:44:24,904 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,904 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,907 [BombeRLeWorld] INFO: STARTING STEP 5
+2024-08-16 09:44:24,910 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,910 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,915 [BombeRLeWorld] INFO: STARTING STEP 6
+2024-08-16 09:44:24,916 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,916 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,920 [BombeRLeWorld] INFO: STARTING STEP 7
+2024-08-16 09:44:24,922 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,923 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,930 [BombeRLeWorld] INFO: STARTING STEP 8
+2024-08-16 09:44:24,931 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,931 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,936 [BombeRLeWorld] INFO: STARTING STEP 9
+2024-08-16 09:44:24,938 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,938 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,944 [BombeRLeWorld] INFO: STARTING STEP 10
+2024-08-16 09:44:24,944 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,944 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,952 [BombeRLeWorld] INFO: STARTING STEP 11
+2024-08-16 09:44:24,953 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,953 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,961 [BombeRLeWorld] INFO: STARTING STEP 12
+2024-08-16 09:44:24,963 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,963 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,968 [BombeRLeWorld] INFO: STARTING STEP 13
+2024-08-16 09:44:24,968 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,968 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,971 [BombeRLeWorld] INFO: STARTING STEP 14
+2024-08-16 09:44:24,972 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,972 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:24,986 [BombeRLeWorld] INFO: STARTING STEP 15
+2024-08-16 09:44:24,987 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:24,987 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,001 [BombeRLeWorld] INFO: STARTING STEP 16
+2024-08-16 09:44:25,002 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,002 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,012 [BombeRLeWorld] INFO: STARTING STEP 17
+2024-08-16 09:44:25,014 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,015 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,019 [BombeRLeWorld] INFO: STARTING STEP 18
+2024-08-16 09:44:25,021 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,022 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,034 [BombeRLeWorld] INFO: STARTING STEP 19
+2024-08-16 09:44:25,036 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,036 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,044 [BombeRLeWorld] INFO: STARTING STEP 20
+2024-08-16 09:44:25,047 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,047 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,053 [BombeRLeWorld] INFO: STARTING STEP 21
+2024-08-16 09:44:25,054 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,054 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,067 [BombeRLeWorld] INFO: STARTING STEP 22
+2024-08-16 09:44:25,068 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,068 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,073 [BombeRLeWorld] INFO: STARTING STEP 23
+2024-08-16 09:44:25,077 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,078 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,088 [BombeRLeWorld] INFO: STARTING STEP 24
+2024-08-16 09:44:25,088 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,088 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,094 [BombeRLeWorld] INFO: STARTING STEP 25
+2024-08-16 09:44:25,095 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,095 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,104 [BombeRLeWorld] INFO: STARTING STEP 26
+2024-08-16 09:44:25,104 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,104 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,108 [BombeRLeWorld] INFO: STARTING STEP 27
+2024-08-16 09:44:25,108 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,108 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,110 [BombeRLeWorld] INFO: STARTING STEP 28
+2024-08-16 09:44:25,111 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,111 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,119 [BombeRLeWorld] INFO: STARTING STEP 29
+2024-08-16 09:44:25,120 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,120 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,126 [BombeRLeWorld] INFO: STARTING STEP 30
+2024-08-16 09:44:25,126 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,126 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,138 [BombeRLeWorld] INFO: STARTING STEP 31
+2024-08-16 09:44:25,138 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,139 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,151 [BombeRLeWorld] INFO: STARTING STEP 32
+2024-08-16 09:44:25,153 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,153 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,159 [BombeRLeWorld] INFO: STARTING STEP 33
+2024-08-16 09:44:25,161 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,161 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,172 [BombeRLeWorld] INFO: STARTING STEP 34
+2024-08-16 09:44:25,172 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,172 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,177 [BombeRLeWorld] INFO: STARTING STEP 35
+2024-08-16 09:44:25,180 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,180 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,191 [BombeRLeWorld] INFO: STARTING STEP 36
+2024-08-16 09:44:25,193 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,193 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,204 [BombeRLeWorld] INFO: STARTING STEP 37
+2024-08-16 09:44:25,206 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,206 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,209 [BombeRLeWorld] INFO: STARTING STEP 38
+2024-08-16 09:44:25,211 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,211 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,223 [BombeRLeWorld] INFO: STARTING STEP 39
+2024-08-16 09:44:25,224 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,224 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,236 [BombeRLeWorld] INFO: STARTING STEP 40
+2024-08-16 09:44:25,238 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,238 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,244 [BombeRLeWorld] INFO: STARTING STEP 41
+2024-08-16 09:44:25,245 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,253 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,262 [BombeRLeWorld] INFO: STARTING STEP 42
+2024-08-16 09:44:25,263 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,263 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,273 [BombeRLeWorld] INFO: STARTING STEP 43
+2024-08-16 09:44:25,276 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,276 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,278 [BombeRLeWorld] INFO: STARTING STEP 44
+2024-08-16 09:44:25,280 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,280 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,288 [BombeRLeWorld] INFO: STARTING STEP 45
+2024-08-16 09:44:25,288 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,288 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,294 [BombeRLeWorld] INFO: STARTING STEP 46
+2024-08-16 09:44:25,296 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,296 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,309 [BombeRLeWorld] INFO: STARTING STEP 47
+2024-08-16 09:44:25,310 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,310 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,322 [BombeRLeWorld] INFO: STARTING STEP 48
+2024-08-16 09:44:25,322 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,323 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,330 [BombeRLeWorld] INFO: STARTING STEP 49
+2024-08-16 09:44:25,337 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,337 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,342 [BombeRLeWorld] INFO: STARTING STEP 50
+2024-08-16 09:44:25,343 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,343 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,354 [BombeRLeWorld] INFO: STARTING STEP 51
+2024-08-16 09:44:25,354 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,355 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,359 [BombeRLeWorld] INFO: STARTING STEP 52
+2024-08-16 09:44:25,359 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,360 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,373 [BombeRLeWorld] INFO: STARTING STEP 53
+2024-08-16 09:44:25,373 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,373 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,378 [BombeRLeWorld] INFO: STARTING STEP 54
+2024-08-16 09:44:25,379 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,379 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,389 [BombeRLeWorld] INFO: STARTING STEP 55
+2024-08-16 09:44:25,390 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,390 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,393 [BombeRLeWorld] INFO: STARTING STEP 56
+2024-08-16 09:44:25,394 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,394 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,396 [BombeRLeWorld] INFO: STARTING STEP 57
+2024-08-16 09:44:25,403 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,403 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,407 [BombeRLeWorld] INFO: STARTING STEP 58
+2024-08-16 09:44:25,407 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,407 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,414 [BombeRLeWorld] INFO: STARTING STEP 59
+2024-08-16 09:44:25,421 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,421 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,426 [BombeRLeWorld] INFO: STARTING STEP 60
+2024-08-16 09:44:25,427 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,427 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,437 [BombeRLeWorld] INFO: STARTING STEP 61
+2024-08-16 09:44:25,439 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,439 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,445 [BombeRLeWorld] INFO: STARTING STEP 62
+2024-08-16 09:44:25,447 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,447 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,456 [BombeRLeWorld] INFO: STARTING STEP 63
+2024-08-16 09:44:25,457 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,457 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,462 [BombeRLeWorld] INFO: STARTING STEP 64
+2024-08-16 09:44:25,463 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,463 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,472 [BombeRLeWorld] INFO: STARTING STEP 65
+2024-08-16 09:44:25,473 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,473 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,477 [BombeRLeWorld] INFO: STARTING STEP 66
+2024-08-16 09:44:25,479 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,480 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,489 [BombeRLeWorld] INFO: STARTING STEP 67
+2024-08-16 09:44:25,490 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,490 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,495 [BombeRLeWorld] INFO: STARTING STEP 68
+2024-08-16 09:44:25,501 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,501 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,506 [BombeRLeWorld] INFO: STARTING STEP 69
+2024-08-16 09:44:25,508 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,508 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,513 [BombeRLeWorld] INFO: STARTING STEP 70
+2024-08-16 09:44:25,518 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,519 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,524 [BombeRLeWorld] INFO: STARTING STEP 71
+2024-08-16 09:44:25,526 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,526 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,537 [BombeRLeWorld] INFO: STARTING STEP 72
+2024-08-16 09:44:25,540 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,541 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,552 [BombeRLeWorld] INFO: STARTING STEP 73
+2024-08-16 09:44:25,556 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,556 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,562 [BombeRLeWorld] INFO: STARTING STEP 74
+2024-08-16 09:44:25,564 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,564 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,592 [BombeRLeWorld] INFO: STARTING STEP 75
+2024-08-16 09:44:25,593 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,593 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,596 [BombeRLeWorld] INFO: STARTING STEP 76
+2024-08-16 09:44:25,597 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,597 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,605 [BombeRLeWorld] INFO: STARTING STEP 77
+2024-08-16 09:44:25,606 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,606 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,623 [BombeRLeWorld] INFO: STARTING STEP 78
+2024-08-16 09:44:25,626 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,626 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,628 [BombeRLeWorld] INFO: STARTING STEP 79
+2024-08-16 09:44:25,628 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,628 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,637 [BombeRLeWorld] INFO: STARTING STEP 80
+2024-08-16 09:44:25,639 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,639 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,643 [BombeRLeWorld] INFO: STARTING STEP 81
+2024-08-16 09:44:25,644 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,644 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,656 [BombeRLeWorld] INFO: STARTING STEP 82
+2024-08-16 09:44:25,657 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,657 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,661 [BombeRLeWorld] INFO: STARTING STEP 83
+2024-08-16 09:44:25,661 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,661 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,673 [BombeRLeWorld] INFO: STARTING STEP 84
+2024-08-16 09:44:25,673 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,673 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,687 [BombeRLeWorld] INFO: STARTING STEP 85
+2024-08-16 09:44:25,688 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,689 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,693 [BombeRLeWorld] INFO: STARTING STEP 86
+2024-08-16 09:44:25,694 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,694 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,706 [BombeRLeWorld] INFO: STARTING STEP 87
+2024-08-16 09:44:25,706 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,706 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,711 [BombeRLeWorld] INFO: STARTING STEP 88
+2024-08-16 09:44:25,712 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,712 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,726 [BombeRLeWorld] INFO: STARTING STEP 89
+2024-08-16 09:44:25,726 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,726 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,729 [BombeRLeWorld] INFO: STARTING STEP 90
+2024-08-16 09:44:25,736 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,737 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,740 [BombeRLeWorld] INFO: STARTING STEP 91
+2024-08-16 09:44:25,742 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,742 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,747 [BombeRLeWorld] INFO: STARTING STEP 92
+2024-08-16 09:44:25,753 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,753 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,760 [BombeRLeWorld] INFO: STARTING STEP 93
+2024-08-16 09:44:25,761 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,761 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,773 [BombeRLeWorld] INFO: STARTING STEP 94
+2024-08-16 09:44:25,774 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,774 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,782 [BombeRLeWorld] INFO: STARTING STEP 95
+2024-08-16 09:44:25,786 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,786 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,792 [BombeRLeWorld] INFO: STARTING STEP 96
+2024-08-16 09:44:25,793 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,793 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,797 [BombeRLeWorld] INFO: STARTING STEP 97
+2024-08-16 09:44:25,802 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,802 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,811 [BombeRLeWorld] INFO: STARTING STEP 98
+2024-08-16 09:44:25,813 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,822 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,826 [BombeRLeWorld] INFO: STARTING STEP 99
+2024-08-16 09:44:25,828 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,828 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,839 [BombeRLeWorld] INFO: STARTING STEP 100
+2024-08-16 09:44:25,840 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,840 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,844 [BombeRLeWorld] INFO: STARTING STEP 101
+2024-08-16 09:44:25,846 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,847 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,856 [BombeRLeWorld] INFO: STARTING STEP 102
+2024-08-16 09:44:25,857 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,857 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,861 [BombeRLeWorld] INFO: STARTING STEP 103
+2024-08-16 09:44:25,872 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,872 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,889 [BombeRLeWorld] INFO: STARTING STEP 104
+2024-08-16 09:44:25,891 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,891 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,905 [BombeRLeWorld] INFO: STARTING STEP 105
+2024-08-16 09:44:25,907 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,907 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,910 [BombeRLeWorld] INFO: STARTING STEP 106
+2024-08-16 09:44:25,910 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,911 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,918 [BombeRLeWorld] INFO: STARTING STEP 107
+2024-08-16 09:44:25,921 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,921 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,927 [BombeRLeWorld] INFO: STARTING STEP 108
+2024-08-16 09:44:25,928 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,929 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,939 [BombeRLeWorld] INFO: STARTING STEP 109
+2024-08-16 09:44:25,941 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,942 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,944 [BombeRLeWorld] INFO: STARTING STEP 110
+2024-08-16 09:44:25,944 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,944 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,953 [BombeRLeWorld] INFO: STARTING STEP 111
+2024-08-16 09:44:25,956 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,956 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,961 [BombeRLeWorld] INFO: STARTING STEP 112
+2024-08-16 09:44:25,962 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,963 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:25,974 [BombeRLeWorld] INFO: STARTING STEP 113
+2024-08-16 09:44:25,976 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:25,977 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,003 [BombeRLeWorld] INFO: STARTING STEP 114
+2024-08-16 09:44:26,004 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,004 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,010 [BombeRLeWorld] INFO: STARTING STEP 115
+2024-08-16 09:44:26,010 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,011 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,026 [BombeRLeWorld] INFO: STARTING STEP 116
+2024-08-16 09:44:26,028 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,028 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,037 [BombeRLeWorld] INFO: STARTING STEP 117
+2024-08-16 09:44:26,038 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,038 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,043 [BombeRLeWorld] INFO: STARTING STEP 118
+2024-08-16 09:44:26,043 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,044 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,055 [BombeRLeWorld] INFO: STARTING STEP 119
+2024-08-16 09:44:26,056 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,057 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,061 [BombeRLeWorld] INFO: STARTING STEP 120
+2024-08-16 09:44:26,062 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,062 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,073 [BombeRLeWorld] INFO: STARTING STEP 121
+2024-08-16 09:44:26,073 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,074 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,078 [BombeRLeWorld] INFO: STARTING STEP 122
+2024-08-16 09:44:26,080 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,080 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,090 [BombeRLeWorld] INFO: STARTING STEP 123
+2024-08-16 09:44:26,091 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,091 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,094 [BombeRLeWorld] INFO: STARTING STEP 124
+2024-08-16 09:44:26,096 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,097 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,109 [BombeRLeWorld] INFO: STARTING STEP 125
+2024-08-16 09:44:26,109 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,109 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,122 [BombeRLeWorld] INFO: STARTING STEP 126
+2024-08-16 09:44:26,123 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,123 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,125 [BombeRLeWorld] INFO: STARTING STEP 127
+2024-08-16 09:44:26,126 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,126 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,138 [BombeRLeWorld] INFO: STARTING STEP 128
+2024-08-16 09:44:26,139 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,139 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,142 [BombeRLeWorld] INFO: STARTING STEP 129
+2024-08-16 09:44:26,143 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,143 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,154 [BombeRLeWorld] INFO: STARTING STEP 130
+2024-08-16 09:44:26,156 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,156 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,158 [BombeRLeWorld] INFO: STARTING STEP 131
+2024-08-16 09:44:26,158 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,158 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,160 [BombeRLeWorld] INFO: STARTING STEP 132
+2024-08-16 09:44:26,161 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,161 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,173 [BombeRLeWorld] INFO: STARTING STEP 133
+2024-08-16 09:44:26,174 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,174 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,178 [BombeRLeWorld] INFO: STARTING STEP 134
+2024-08-16 09:44:26,178 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,178 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,189 [BombeRLeWorld] INFO: STARTING STEP 135
+2024-08-16 09:44:26,191 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,191 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,192 [BombeRLeWorld] INFO: STARTING STEP 136
+2024-08-16 09:44:26,193 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,193 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,197 [BombeRLeWorld] INFO: STARTING STEP 137
+2024-08-16 09:44:26,198 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,198 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,208 [BombeRLeWorld] INFO: STARTING STEP 138
+2024-08-16 09:44:26,208 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,208 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,212 [BombeRLeWorld] INFO: STARTING STEP 139
+2024-08-16 09:44:26,213 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,214 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,222 [BombeRLeWorld] INFO: STARTING STEP 140
+2024-08-16 09:44:26,223 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,223 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,225 [BombeRLeWorld] INFO: STARTING STEP 141
+2024-08-16 09:44:26,226 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,226 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,229 [BombeRLeWorld] INFO: STARTING STEP 142
+2024-08-16 09:44:26,231 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,232 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,240 [BombeRLeWorld] INFO: STARTING STEP 143
+2024-08-16 09:44:26,240 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,240 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,243 [BombeRLeWorld] INFO: STARTING STEP 144
+2024-08-16 09:44:26,243 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,243 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,256 [BombeRLeWorld] INFO: STARTING STEP 145
+2024-08-16 09:44:26,256 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,256 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,260 [BombeRLeWorld] INFO: STARTING STEP 146
+2024-08-16 09:44:26,261 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,262 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,272 [BombeRLeWorld] INFO: STARTING STEP 147
+2024-08-16 09:44:26,273 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,273 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,277 [BombeRLeWorld] INFO: STARTING STEP 148
+2024-08-16 09:44:26,278 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,278 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,288 [BombeRLeWorld] INFO: STARTING STEP 149
+2024-08-16 09:44:26,289 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,289 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,293 [BombeRLeWorld] INFO: STARTING STEP 150
+2024-08-16 09:44:26,294 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,294 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,302 [BombeRLeWorld] INFO: STARTING STEP 151
+2024-08-16 09:44:26,304 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,307 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,311 [BombeRLeWorld] INFO: STARTING STEP 152
+2024-08-16 09:44:26,318 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,318 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,323 [BombeRLeWorld] INFO: STARTING STEP 153
+2024-08-16 09:44:26,324 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,324 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,327 [BombeRLeWorld] INFO: STARTING STEP 154
+2024-08-16 09:44:26,327 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,327 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,338 [BombeRLeWorld] INFO: STARTING STEP 155
+2024-08-16 09:44:26,340 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,341 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,345 [BombeRLeWorld] INFO: STARTING STEP 156
+2024-08-16 09:44:26,348 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,352 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,358 [BombeRLeWorld] INFO: STARTING STEP 157
+2024-08-16 09:44:26,358 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,358 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,363 [BombeRLeWorld] INFO: STARTING STEP 158
+2024-08-16 09:44:26,364 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,364 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,373 [BombeRLeWorld] INFO: STARTING STEP 159
+2024-08-16 09:44:26,374 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,374 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,377 [BombeRLeWorld] INFO: STARTING STEP 160
+2024-08-16 09:44:26,378 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,378 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,390 [BombeRLeWorld] INFO: STARTING STEP 161
+2024-08-16 09:44:26,390 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,391 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,396 [BombeRLeWorld] INFO: STARTING STEP 162
+2024-08-16 09:44:26,404 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.01s.
+2024-08-16 09:44:26,404 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,408 [BombeRLeWorld] INFO: STARTING STEP 163
+2024-08-16 09:44:26,408 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,408 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,411 [BombeRLeWorld] INFO: STARTING STEP 164
+2024-08-16 09:44:26,415 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,417 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,423 [BombeRLeWorld] INFO: STARTING STEP 165
+2024-08-16 09:44:26,424 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,424 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,428 [BombeRLeWorld] INFO: STARTING STEP 166
+2024-08-16 09:44:26,428 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,428 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,436 [BombeRLeWorld] INFO: STARTING STEP 167
+2024-08-16 09:44:26,438 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,438 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,440 [BombeRLeWorld] INFO: STARTING STEP 168
+2024-08-16 09:44:26,441 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,441 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,444 [BombeRLeWorld] INFO: STARTING STEP 169
+2024-08-16 09:44:26,453 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.01s.
+2024-08-16 09:44:26,453 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,457 [BombeRLeWorld] INFO: STARTING STEP 170
+2024-08-16 09:44:26,458 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,458 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,462 [BombeRLeWorld] INFO: STARTING STEP 171
+2024-08-16 09:44:26,463 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,463 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,473 [BombeRLeWorld] INFO: STARTING STEP 172
+2024-08-16 09:44:26,474 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,474 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,488 [BombeRLeWorld] INFO: STARTING STEP 173
+2024-08-16 09:44:26,490 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,490 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,493 [BombeRLeWorld] INFO: STARTING STEP 174
+2024-08-16 09:44:26,493 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,494 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,503 [BombeRLeWorld] INFO: STARTING STEP 175
+2024-08-16 09:44:26,504 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,504 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,507 [BombeRLeWorld] INFO: STARTING STEP 176
+2024-08-16 09:44:26,507 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,507 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,511 [BombeRLeWorld] INFO: STARTING STEP 177
+2024-08-16 09:44:26,512 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,513 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,522 [BombeRLeWorld] INFO: STARTING STEP 178
+2024-08-16 09:44:26,523 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,523 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,528 [BombeRLeWorld] INFO: STARTING STEP 179
+2024-08-16 09:44:26,531 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,531 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,541 [BombeRLeWorld] INFO: STARTING STEP 180
+2024-08-16 09:44:26,541 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,542 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,547 [BombeRLeWorld] INFO: STARTING STEP 181
+2024-08-16 09:44:26,553 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,553 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,559 [BombeRLeWorld] INFO: STARTING STEP 182
+2024-08-16 09:44:26,560 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,560 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,569 [BombeRLeWorld] INFO: STARTING STEP 183
+2024-08-16 09:44:26,572 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,572 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,576 [BombeRLeWorld] INFO: STARTING STEP 184
+2024-08-16 09:44:26,577 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,577 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,579 [BombeRLeWorld] INFO: STARTING STEP 185
+2024-08-16 09:44:26,588 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,588 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,591 [BombeRLeWorld] INFO: STARTING STEP 186
+2024-08-16 09:44:26,592 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,592 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,593 [BombeRLeWorld] INFO: STARTING STEP 187
+2024-08-16 09:44:26,594 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,594 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,605 [BombeRLeWorld] INFO: STARTING STEP 188
+2024-08-16 09:44:26,606 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,606 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,610 [BombeRLeWorld] INFO: STARTING STEP 189
+2024-08-16 09:44:26,610 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,610 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,613 [BombeRLeWorld] INFO: STARTING STEP 190
+2024-08-16 09:44:26,621 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,621 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,625 [BombeRLeWorld] INFO: STARTING STEP 191
+2024-08-16 09:44:26,626 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,626 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,629 [BombeRLeWorld] INFO: STARTING STEP 192
+2024-08-16 09:44:26,630 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,631 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,640 [BombeRLeWorld] INFO: STARTING STEP 193
+2024-08-16 09:44:26,641 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,641 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,642 [BombeRLeWorld] INFO: STARTING STEP 194
+2024-08-16 09:44:26,643 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,643 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,645 [BombeRLeWorld] INFO: STARTING STEP 195
+2024-08-16 09:44:26,646 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,647 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,658 [BombeRLeWorld] INFO: STARTING STEP 196
+2024-08-16 09:44:26,658 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,658 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,661 [BombeRLeWorld] INFO: STARTING STEP 197
+2024-08-16 09:44:26,663 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,663 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,672 [BombeRLeWorld] INFO: STARTING STEP 198
+2024-08-16 09:44:26,673 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,673 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,677 [BombeRLeWorld] INFO: STARTING STEP 199
+2024-08-16 09:44:26,678 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,678 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,691 [BombeRLeWorld] INFO: STARTING STEP 200
+2024-08-16 09:44:26,692 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,692 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,800 [BombeRLeWorld] INFO: STARTING STEP 201
+2024-08-16 09:44:26,801 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,801 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:26,921 [BombeRLeWorld] INFO: STARTING STEP 202
+2024-08-16 09:44:26,922 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:26,922 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,004 [BombeRLeWorld] INFO: STARTING STEP 203
+2024-08-16 09:44:27,006 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,006 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,016 [BombeRLeWorld] INFO: STARTING STEP 204
+2024-08-16 09:44:27,018 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,020 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,027 [BombeRLeWorld] INFO: STARTING STEP 205
+2024-08-16 09:44:27,027 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,028 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,031 [BombeRLeWorld] INFO: STARTING STEP 206
+2024-08-16 09:44:27,032 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,032 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,040 [BombeRLeWorld] INFO: STARTING STEP 207
+2024-08-16 09:44:27,041 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,042 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,044 [BombeRLeWorld] INFO: STARTING STEP 208
+2024-08-16 09:44:27,044 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,044 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,053 [BombeRLeWorld] INFO: STARTING STEP 209
+2024-08-16 09:44:27,058 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,058 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,062 [BombeRLeWorld] INFO: STARTING STEP 210
+2024-08-16 09:44:27,063 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,063 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,072 [BombeRLeWorld] INFO: STARTING STEP 211
+2024-08-16 09:44:27,073 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,073 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,076 [BombeRLeWorld] INFO: STARTING STEP 212
+2024-08-16 09:44:27,077 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,077 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,084 [BombeRLeWorld] INFO: STARTING STEP 213
+2024-08-16 09:44:27,091 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.01s.
+2024-08-16 09:44:27,091 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,095 [BombeRLeWorld] INFO: STARTING STEP 214
+2024-08-16 09:44:27,097 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,098 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,109 [BombeRLeWorld] INFO: STARTING STEP 215
+2024-08-16 09:44:27,109 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,109 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,121 [BombeRLeWorld] INFO: STARTING STEP 216
+2024-08-16 09:44:27,124 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,124 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,129 [BombeRLeWorld] INFO: STARTING STEP 217
+2024-08-16 09:44:27,131 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,131 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,141 [BombeRLeWorld] INFO: STARTING STEP 218
+2024-08-16 09:44:27,142 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,142 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,147 [BombeRLeWorld] INFO: STARTING STEP 219
+2024-08-16 09:44:27,149 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,149 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,158 [BombeRLeWorld] INFO: STARTING STEP 220
+2024-08-16 09:44:27,159 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,159 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,163 [BombeRLeWorld] INFO: STARTING STEP 221
+2024-08-16 09:44:27,167 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,167 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,173 [BombeRLeWorld] INFO: STARTING STEP 222
+2024-08-16 09:44:27,174 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,174 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,177 [BombeRLeWorld] INFO: STARTING STEP 223
+2024-08-16 09:44:27,178 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,178 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,187 [BombeRLeWorld] INFO: STARTING STEP 224
+2024-08-16 09:44:27,188 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,189 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,194 [BombeRLeWorld] INFO: STARTING STEP 225
+2024-08-16 09:44:27,196 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,196 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,204 [BombeRLeWorld] INFO: STARTING STEP 226
+2024-08-16 09:44:27,206 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,207 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,209 [BombeRLeWorld] INFO: STARTING STEP 227
+2024-08-16 09:44:27,211 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,211 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,217 [BombeRLeWorld] INFO: STARTING STEP 228
+2024-08-16 09:44:27,218 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,219 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,226 [BombeRLeWorld] INFO: STARTING STEP 229
+2024-08-16 09:44:27,227 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,227 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,234 [BombeRLeWorld] INFO: STARTING STEP 230
+2024-08-16 09:44:27,238 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,239 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,244 [BombeRLeWorld] INFO: STARTING STEP 231
+2024-08-16 09:44:27,246 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,247 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,256 [BombeRLeWorld] INFO: STARTING STEP 232
+2024-08-16 09:44:27,259 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,260 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,267 [BombeRLeWorld] INFO: STARTING STEP 233
+2024-08-16 09:44:27,268 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,268 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,275 [BombeRLeWorld] INFO: STARTING STEP 234
+2024-08-16 09:44:27,276 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,276 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,281 [BombeRLeWorld] INFO: STARTING STEP 235
+2024-08-16 09:44:27,282 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,283 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,288 [BombeRLeWorld] INFO: STARTING STEP 236
+2024-08-16 09:44:27,289 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,289 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,292 [BombeRLeWorld] INFO: STARTING STEP 237
+2024-08-16 09:44:27,293 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,293 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,300 [BombeRLeWorld] INFO: STARTING STEP 238
+2024-08-16 09:44:27,301 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,301 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,309 [BombeRLeWorld] INFO: STARTING STEP 239
+2024-08-16 09:44:27,311 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,311 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,323 [BombeRLeWorld] INFO: STARTING STEP 240
+2024-08-16 09:44:27,324 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,324 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,331 [BombeRLeWorld] INFO: STARTING STEP 241
+2024-08-16 09:44:27,333 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,333 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,342 [BombeRLeWorld] INFO: STARTING STEP 242
+2024-08-16 09:44:27,342 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,342 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,349 [BombeRLeWorld] INFO: STARTING STEP 243
+2024-08-16 09:44:27,353 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,354 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,357 [BombeRLeWorld] INFO: STARTING STEP 244
+2024-08-16 09:44:27,358 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,358 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,372 [BombeRLeWorld] INFO: STARTING STEP 245
+2024-08-16 09:44:27,373 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,374 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,381 [BombeRLeWorld] INFO: STARTING STEP 246
+2024-08-16 09:44:27,383 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,387 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,390 [BombeRLeWorld] INFO: STARTING STEP 247
+2024-08-16 09:44:27,391 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,391 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,397 [BombeRLeWorld] INFO: STARTING STEP 248
+2024-08-16 09:44:27,399 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,402 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,410 [BombeRLeWorld] INFO: STARTING STEP 249
+2024-08-16 09:44:27,410 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,410 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,425 [BombeRLeWorld] INFO: STARTING STEP 250
+2024-08-16 09:44:27,425 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,425 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,429 [BombeRLeWorld] INFO: STARTING STEP 251
+2024-08-16 09:44:27,433 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,434 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,442 [BombeRLeWorld] INFO: STARTING STEP 252
+2024-08-16 09:44:27,443 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,443 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,450 [BombeRLeWorld] INFO: STARTING STEP 253
+2024-08-16 09:44:27,455 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,455 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,459 [BombeRLeWorld] INFO: STARTING STEP 254
+2024-08-16 09:44:27,459 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,459 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,468 [BombeRLeWorld] INFO: STARTING STEP 255
+2024-08-16 09:44:27,468 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,468 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,474 [BombeRLeWorld] INFO: STARTING STEP 256
+2024-08-16 09:44:27,475 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,475 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,482 [BombeRLeWorld] INFO: STARTING STEP 257
+2024-08-16 09:44:27,483 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,484 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,490 [BombeRLeWorld] INFO: STARTING STEP 258
+2024-08-16 09:44:27,490 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,490 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,493 [BombeRLeWorld] INFO: STARTING STEP 259
+2024-08-16 09:44:27,494 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,494 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,508 [BombeRLeWorld] INFO: STARTING STEP 260
+2024-08-16 09:44:27,508 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,508 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,514 [BombeRLeWorld] INFO: STARTING STEP 261
+2024-08-16 09:44:27,517 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,517 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,523 [BombeRLeWorld] INFO: STARTING STEP 262
+2024-08-16 09:44:27,523 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,523 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,525 [BombeRLeWorld] INFO: STARTING STEP 263
+2024-08-16 09:44:27,527 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,527 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,531 [BombeRLeWorld] INFO: STARTING STEP 264
+2024-08-16 09:44:27,534 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,534 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,542 [BombeRLeWorld] INFO: STARTING STEP 265
+2024-08-16 09:44:27,543 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,543 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,555 [BombeRLeWorld] INFO: STARTING STEP 266
+2024-08-16 09:44:27,556 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,556 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,560 [BombeRLeWorld] INFO: STARTING STEP 267
+2024-08-16 09:44:27,560 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,561 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,565 [BombeRLeWorld] INFO: STARTING STEP 268
+2024-08-16 09:44:27,567 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,567 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,577 [BombeRLeWorld] INFO: STARTING STEP 269
+2024-08-16 09:44:27,578 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,578 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,587 [BombeRLeWorld] INFO: STARTING STEP 270
+2024-08-16 09:44:27,590 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,590 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,592 [BombeRLeWorld] INFO: STARTING STEP 271
+2024-08-16 09:44:27,592 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,592 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,594 [BombeRLeWorld] INFO: STARTING STEP 272
+2024-08-16 09:44:27,594 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,594 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,600 [BombeRLeWorld] INFO: STARTING STEP 273
+2024-08-16 09:44:27,601 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,602 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,609 [BombeRLeWorld] INFO: STARTING STEP 274
+2024-08-16 09:44:27,610 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,610 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,616 [BombeRLeWorld] INFO: STARTING STEP 275
+2024-08-16 09:44:27,617 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,617 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,624 [BombeRLeWorld] INFO: STARTING STEP 276
+2024-08-16 09:44:27,625 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,625 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,630 [BombeRLeWorld] INFO: STARTING STEP 277
+2024-08-16 09:44:27,631 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,631 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,640 [BombeRLeWorld] INFO: STARTING STEP 278
+2024-08-16 09:44:27,641 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,641 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,644 [BombeRLeWorld] INFO: STARTING STEP 279
+2024-08-16 09:44:27,644 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,644 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,657 [BombeRLeWorld] INFO: STARTING STEP 280
+2024-08-16 09:44:27,658 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,658 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,661 [BombeRLeWorld] INFO: STARTING STEP 281
+2024-08-16 09:44:27,663 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,663 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,672 [BombeRLeWorld] INFO: STARTING STEP 282
+2024-08-16 09:44:27,673 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,673 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,679 [BombeRLeWorld] INFO: STARTING STEP 283
+2024-08-16 09:44:27,680 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,681 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,690 [BombeRLeWorld] INFO: STARTING STEP 284
+2024-08-16 09:44:27,691 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,691 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,694 [BombeRLeWorld] INFO: STARTING STEP 285
+2024-08-16 09:44:27,695 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,695 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,700 [BombeRLeWorld] INFO: STARTING STEP 286
+2024-08-16 09:44:27,705 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,705 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,708 [BombeRLeWorld] INFO: STARTING STEP 287
+2024-08-16 09:44:27,710 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,710 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,718 [BombeRLeWorld] INFO: STARTING STEP 288
+2024-08-16 09:44:27,722 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,722 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,726 [BombeRLeWorld] INFO: STARTING STEP 289
+2024-08-16 09:44:27,727 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,727 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,736 [BombeRLeWorld] INFO: STARTING STEP 290
+2024-08-16 09:44:27,737 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,738 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,741 [BombeRLeWorld] INFO: STARTING STEP 291
+2024-08-16 09:44:27,743 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,743 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,751 [BombeRLeWorld] INFO: STARTING STEP 292
+2024-08-16 09:44:27,752 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,753 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,757 [BombeRLeWorld] INFO: STARTING STEP 293
+2024-08-16 09:44:27,759 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,759 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,768 [BombeRLeWorld] INFO: STARTING STEP 294
+2024-08-16 09:44:27,770 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,771 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,774 [BombeRLeWorld] INFO: STARTING STEP 295
+2024-08-16 09:44:27,775 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,775 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2024-08-16 09:44:27,783 [BombeRLeWorld] INFO: STARTING STEP 296
+2024-08-16 09:44:27,787 [BombeRLeWorld] INFO: Agent <my_agent> chose action WAIT in 0.00s.
+2024-08-16 09:44:27,787 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.

@@ -1,0 +1,615 @@
+2024-08-16 09:44:24,893 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,894 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,895 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,896 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,901 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,901 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,903 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,903 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,909 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,910 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,915 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,915 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,921 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,921 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,931 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,931 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,936 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,936 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,944 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,944 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,952 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,952 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,961 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,961 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,968 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,968 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,971 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,972 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:24,986 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:24,986 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,002 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,002 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,014 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,014 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,020 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,020 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,036 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,036 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,044 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,044 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,054 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,054 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,067 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,068 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,074 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,075 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,088 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,088 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,094 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,095 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,104 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,104 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,108 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,108 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,110 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,110 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,119 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,119 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,126 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,126 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,138 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,138 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,152 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,152 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,161 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,161 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,172 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,172 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,178 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,178 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,192 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,192 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,204 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,205 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,209 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,209 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,224 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,224 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,237 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,237 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,245 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,245 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,262 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,262 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,273 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,275 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,279 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,279 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,288 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,288 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,295 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,296 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,310 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,310 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,322 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,322 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,334 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,336 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,343 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,343 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,354 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,354 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,359 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,359 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,373 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,373 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,378 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,378 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,390 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,390 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,393 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,394 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,402 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,402 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,407 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,407 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,420 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,420 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,426 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,427 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,438 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,438 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,446 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,446 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,456 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,456 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,463 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,463 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,472 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,473 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,479 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,479 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,490 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,490 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,495 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,495 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,507 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,507 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,513 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,513 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,524 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,524 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,539 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,539 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,555 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,556 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,562 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,563 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,592 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,592 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,597 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,597 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,605 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,605 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,625 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,625 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,628 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,628 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,637 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,637 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,643 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,644 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,656 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,657 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,661 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,661 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,673 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,673 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,688 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,688 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,694 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,694 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,706 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,706 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,711 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,711 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,726 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,726 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,736 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,736 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,740 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,741 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,748 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,752 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,760 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,760 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,774 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,774 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,784 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,784 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,793 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,793 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,798 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,801 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,812 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,812 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,827 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,827 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,839 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,839 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,845 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,846 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,856 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,856 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,871 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,871 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,890 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,891 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,906 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,906 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,910 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,910 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,920 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,920 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,928 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,928 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,940 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,940 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,944 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,944 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,955 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,956 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,961 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,962 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:25,974 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:25,976 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,003 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,003 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,010 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,010 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,027 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,027 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,038 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,038 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,043 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,043 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,056 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,056 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,062 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,062 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,073 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,073 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,079 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,079 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,090 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,091 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,095 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,095 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,109 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,109 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,123 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,123 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,125 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,125 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,138 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,138 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,143 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,143 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,155 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,155 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,158 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,158 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,160 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,160 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,173 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,173 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,178 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,178 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,189 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,191 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,193 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,193 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,197 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,197 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,208 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,208 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,213 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,213 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,223 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,223 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,225 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,225 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,230 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,231 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,240 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,240 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,243 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,243 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,256 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,256 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,261 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,261 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,272 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,272 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,277 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,277 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,288 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,288 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,293 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,294 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,302 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,302 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,312 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,312 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,324 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,324 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,327 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,327 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,339 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,340 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,345 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,347 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,358 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,358 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,364 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,364 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,373 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,373 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,378 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,378 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,390 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,390 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,396 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,396 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,408 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,408 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,414 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,414 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,424 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,424 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,428 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,428 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,437 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,437 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,440 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,440 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,445 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,452 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,457 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,458 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,463 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,463 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,473 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,473 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,489 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,489 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,493 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,493 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,503 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,503 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,507 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,507 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,512 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,512 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,522 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,522 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,529 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,529 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,541 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,541 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,551 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,552 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,559 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,559 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,571 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,571 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,576 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,576 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,579 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,581 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,591 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,591 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,594 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,594 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,606 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,606 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,610 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,610 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,613 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,613 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,626 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,626 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,630 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,630 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,640 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,640 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,642 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,643 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,646 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,646 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,658 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,658 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,662 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,662 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,672 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,673 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,678 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,678 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,691 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,691 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,801 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,801 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:26,921 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:26,921 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,004 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,005 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,017 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,017 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,027 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,027 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,031 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,031 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,041 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,041 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,044 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,044 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,057 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,057 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,063 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,063 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,073 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,073 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,077 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,077 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,089 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,089 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,096 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,097 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,109 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,109 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,123 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,123 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,130 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,131 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,142 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,142 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,148 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,148 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,158 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,158 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,163 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,164 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,174 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,174 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,178 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,178 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,188 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,188 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,194 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,194 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,206 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,206 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,211 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,211 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,217 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,218 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,227 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,227 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,237 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,237 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,244 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,245 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,257 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,257 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,268 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,268 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,276 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,276 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,281 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,282 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,289 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,289 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,293 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,293 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,301 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,301 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,311 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,311 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,324 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,324 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,332 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,332 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,342 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,342 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,350 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,351 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,357 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,357 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,373 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,373 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,382 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,383 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,391 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,391 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,399 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,399 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,410 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,410 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,425 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,425 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,431 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,431 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,442 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,443 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,453 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,453 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,459 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,459 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,468 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,468 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,474 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,475 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,483 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,483 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,490 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,490 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,494 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,494 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,508 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,508 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,516 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,516 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,523 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,523 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,526 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,526 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,532 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,532 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,542 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,543 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,556 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,556 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,560 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,560 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,566 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,566 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,577 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,578 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,590 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,590 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,592 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,592 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,594 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,594 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,601 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,601 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,609 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,609 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,616 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,616 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,625 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,625 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,630 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,631 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,640 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,640 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,644 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,644 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,657 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,658 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,662 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,662 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,672 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,672 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,679 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,679 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,690 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,690 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,694 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,694 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,704 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,704 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,710 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,710 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,718 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,718 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,726 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,726 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,737 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,737 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,742 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,742 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,752 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,752 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,759 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,759 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,770 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,770 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,774 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,775 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,784 [my_agent_code] INFO: Pick action according to pressed key
+2024-08-16 09:44:27,784 [my_agent_code] ERROR: Invalid action received: None. Defaulting to 'WAIT'.
+2024-08-16 09:44:27,792 [my_agent_wrapper] ERROR: 
+Traceback (most recent call last):
+  File "C:\Users\User\Downloads\bomberman_terminator-main\agents.py", line 248, in process_event
+    event_result = getattr(module, event_name)(self.fake_self, *event_args)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Downloads\bomberman_terminator-main\agent_code\my_agent\train.py", line 22, in game_events_occurred
+    new_state = state_to_features(new_game_state)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Downloads\bomberman_terminator-main\agent_code\my_agent\callbacks.py", line 99, in state_to_features
+    logger.error("Feature vector index out of bounds during field processing")
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\logging\__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\logging\__init__.py", line 1684, in _log
+    self.handle(record)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\logging\__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\logging\__init__.py", line 1770, in callHandlers
+    lastResort.handle(record)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\logging\__init__.py", line 1028, in handle
+    self.emit(record)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\logging\__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+KeyboardInterrupt
